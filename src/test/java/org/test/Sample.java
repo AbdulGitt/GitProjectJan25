@@ -6,7 +6,8 @@ public class Sample {
 		
 		System.out.println("Main class");
 		System.out.println("Kumar has written in 8th line");
-		
+		System.out.println("Arun new line again in 8th line");
+
 	}
 
 }
